@@ -1,0 +1,11 @@
+C:\Users\ebrua\Desktop\154\154\bin\Debug\154.exe.config
+C:\Users\ebrua\Desktop\154\154\bin\Debug\154.exe
+C:\Users\ebrua\Desktop\154\154\bin\Debug\154.pdb
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.csproj.AssemblyReference.cache
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebrua\Desktop\154\154\obj\Debug\_154.Form1.resources
+C:\Users\ebrua\Desktop\154\154\obj\Debug\_154.Properties.Resources.resources
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.csproj.GenerateResource.cache
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.csproj.CoreCompileInputs.cache
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.exe
+C:\Users\ebrua\Desktop\154\154\obj\Debug\154.pdb

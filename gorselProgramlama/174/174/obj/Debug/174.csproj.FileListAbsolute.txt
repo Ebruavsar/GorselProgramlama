@@ -1,0 +1,11 @@
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\bin\Debug\174.exe.config
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\bin\Debug\174.exe
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\bin\Debug\174.pdb
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.csproj.AssemblyReference.cache
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\_174.Form1.resources
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\_174.Properties.Resources.resources
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.csproj.GenerateResource.cache
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.csproj.CoreCompileInputs.cache
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.exe
+C:\Users\ebrua\Desktop\201001077-EbruAvsar\174\174\obj\Debug\174.pdb

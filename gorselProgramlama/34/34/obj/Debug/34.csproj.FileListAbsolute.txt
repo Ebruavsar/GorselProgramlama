@@ -1,0 +1,11 @@
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\bin\Debug\34.exe.config
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\bin\Debug\34.exe
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\bin\Debug\34.pdb
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.csproj.AssemblyReference.cache
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\_34.Form1.resources
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\_34.Properties.Resources.resources
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.csproj.GenerateResource.cache
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.exe
+C:\Users\ebrua\Desktop\201001077-ebruAvsar-N.Ö\34\34\obj\Debug\34.pdb
