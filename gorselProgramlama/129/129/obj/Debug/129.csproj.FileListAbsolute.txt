@@ -9,3 +9,14 @@ C:\Users\ebrua\Desktop\201001077-EbruAvsar\129\129\obj\Debug\129.csproj.Generate
 C:\Users\ebrua\Desktop\201001077-EbruAvsar\129\129\obj\Debug\129.csproj.CoreCompileInputs.cache
 C:\Users\ebrua\Desktop\201001077-EbruAvsar\129\129\obj\Debug\129.exe
 C:\Users\ebrua\Desktop\201001077-EbruAvsar\129\129\obj\Debug\129.pdb
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\bin\Debug\129.exe.config
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\bin\Debug\129.exe
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\bin\Debug\129.pdb
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.csproj.AssemblyReference.cache
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\_129.Form1.resources
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\_129.Properties.Resources.resources
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.csproj.GenerateResource.cache
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.csproj.CoreCompileInputs.cache
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.exe
+C:\Users\ebrua\Desktop\GorselProgramlamaDers\gorselProgramlama\129\129\obj\Debug\129.pdb
